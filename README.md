@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leen223
-- 👀 I’m interested in coding and sypersec
-- 🌱 I’m currently learning c# and c++
+- 👀 I’m interested in coding and cloud computing
+- 🌱 I’m currently learning c#
 - 😄 Pronouns: she
 - ⚡ Fun fact: i'm a coffee lover
 
