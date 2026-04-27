@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Leen223
-- 👀 I’m interested in coding and cloud computing
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning cloud computing
 - 😄 Pronouns: she
 - ⚡ Fun fact: i'm a coffee lover
 
